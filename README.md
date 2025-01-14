@@ -99,16 +99,3 @@ npm start
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Bir Pull Request oluşturun
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
-## 👥 Yazarlar
-
-- [Adınız] - *İlk Geliştirici* - [GitHub Profiliniz]
-
-## 🙏 Teşekkürler
-
-- OpenAI ekibine GPT-4 API'si için
-- Chakra UI ekibine harika UI bileşenleri için
-- FastAPI ekibine modern Python web framework'ü için
